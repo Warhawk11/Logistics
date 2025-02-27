@@ -1,0 +1,11 @@
+.addcard{
+    background-color: aquamarine;
+    max-width: 30%;
+
+    
+}
+.image{
+    max-width: 20%;
+    border-radius: 50%; /* Set the border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow effect */
+}

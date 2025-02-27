@@ -1,0 +1,28 @@
+{
+    "contents":[{
+        "id": 1,
+        "category": "lr"
+    },
+    {
+        "id": 2,
+        "category": "BillCopy"
+    },
+    {
+        "id": 3,
+        "category": "Letter Pad"
+    },
+    {
+        "id": 4,
+        "category": "Booking Register"
+    },
+    {
+        "id": 5,
+        "category": "Vehicle Details"
+    },
+    {
+        "id": 6,
+        "category": "MIS Report"
+    }
+    
+]
+}
